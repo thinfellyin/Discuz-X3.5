@@ -1,0 +1,11 @@
+.dockerignore
+.env.example
+DOCKER_DEPLOY.md
+docker-compose.yml
+docker/mysql/my.cnf
+docker/mysql/initdb/README.md
+docker/nginx/default.conf
+docker/php/Dockerfile
+docker/php/docker-entrypoint.sh
+docker/php/php.ini
+changed_files.txt
